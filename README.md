@@ -22,3 +22,7 @@ Future Improvements
 Add input validation.
 Implement multiple electricity pricing tiers.
 Improve the output formatting.
+
+## Screenshot
+
+![Electricity Bill Calculator output](electricity-bill-output.png)
