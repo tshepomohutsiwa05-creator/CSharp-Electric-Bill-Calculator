@@ -1,19 +1,19 @@
 Electricity Bill Calculator
 
-Overview
+Overview:
 A C# console application that calculates an electricity bill based on the number of electricity units consumed.
 
-Features
+Features:
 Accepts user input.
 Calculates electricity costs based on consumption.
 Displays the calculated bill.
 
-Technologies Used
+Technologies Used:
 C#
 .NET
 Visual Studio 2022
 
-What I Learned
+What I Learned:
 Handling user input in C#.
 Using variables and conditional statements.
 Implementing calculations and displaying output in a console application.
